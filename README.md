@@ -24,5 +24,5 @@ Database: Image URL only(from storage) ,authorname, tilte, description
 Used 2 database, to increase performance.
 
 # Screenshots: 
-❮img src="images/During_Upload.jpg" width="100" ❯
+❮img src="images/During_Upload.jpg"❯
 
