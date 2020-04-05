@@ -24,6 +24,11 @@ Database: Image URL only(from storage) ,authorname, tilte, description
 Used 2 database, to increase performance.
 
 # Screenshots: 
-<img src="https://raw.githubusercontent.com/VaniIndrali/flutter_blog_app/master/images/During_Upload.jpg" width="250" height="250" >
-![](https://raw.githubusercontent.com/VaniIndrali/flutter_blog_app/master/images/During_Upload.jpg)
+Upload Page
+<img src="https://raw.githubusercontent.com/VaniIndrali/flutter_blog_app/master/images/Upload_page.jpg" width="250" height="400" >
+During Upload
+<img src="https://raw.githubusercontent.com/VaniIndrali/flutter_blog_app/master/images/During_Upload.jpg" width="250" height="400" >
+Home Page After Uploading. Refresh if it doesnot display. 
+<img src="https://raw.githubusercontent.com/VaniIndrali/flutter_blog_app/master/images/Home_after_uploading.jpg" width="250" height="400" >
+
 
