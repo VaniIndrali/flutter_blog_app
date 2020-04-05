@@ -24,6 +24,6 @@ Database: Image URL only(from storage) ,authorname, tilte, description
 Used 2 database, to increase performance.
 
 # Screenshots: 
-
+<img src="https://raw.githubusercontent.com/VaniIndrali/flutter_blog_app/master/images/During_Upload.jpg" width="250" height="250" >
 ![](https://raw.githubusercontent.com/VaniIndrali/flutter_blog_app/master/images/During_Upload.jpg)
 
