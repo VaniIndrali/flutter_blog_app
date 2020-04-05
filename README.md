@@ -25,5 +25,5 @@ Used 2 database, to increase performance.
 
 # Screenshots: 
 
-![images/During_Upload.jpg]
+![images/During_Upload.jpg] (images/During_Upload.jpg)
 
