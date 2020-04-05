@@ -1,6 +1,6 @@
 # blog_app
 
-A new Flutter application.
+This application uses Firebase. 
 
 ## Getting Started
 
@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Note: 
+To use this repository, you need to add this app to your firebase project https://firebase.google.com/ and paste the google-services.json file into android -> app directory. (Else this won't work) 
+
+Storage : Used to store actual image uploaded by user
+Database: Image URL only(from storage) ,authorname, tilte, description
+
+Used 2 database, to increase performance.
