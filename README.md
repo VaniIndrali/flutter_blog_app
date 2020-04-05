@@ -28,10 +28,9 @@ Used 2 database, to increase performance.
 <img src="https://raw.githubusercontent.com/VaniIndrali/flutter_blog_app/master/images/Upload_page.jpg" width="250" height="400" > <br><br>
 - During Upload <br>
 <img src="https://raw.githubusercontent.com/VaniIndrali/flutter_blog_app/master/images/During_Upload.jpg" width="250" height="400" > <br><br>
-- Home Page After Uploading.  <br>
+- Home Page After Uploading <br>
 <img src="https://raw.githubusercontent.com/VaniIndrali/flutter_blog_app/master/images/Home_after_uploading.jpg" width="250" height="400" >
-<br><br>
-
-Refresh if it doesn't display 
+<br>
+Refresh if it doesn't display. 
 
 
